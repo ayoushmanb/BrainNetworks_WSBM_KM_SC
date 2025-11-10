@@ -24,7 +24,7 @@ BrainNetworks_WSBM_KM_SC/
 │   ├── inter_comparison.m
 │   ├── intra_comparison.m
 │   ├── simulation/              # Simulation subfolder
-│   │   └── simulation_fc_matrix.m
+│       └── simulation_fc_matrix.m
 │
 ├── support_functions/           # Utility and helper functions
 │
