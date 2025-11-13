@@ -7,7 +7,7 @@ Community detection provides a principled lens on mesoscale organization in func
 
 ## Main Article
 
-TBD
+TBD (biorxiv)
 
 ## Repository Structure
 
