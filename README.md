@@ -7,7 +7,7 @@ Community detection provides a principled lens on mesoscale organization in func
 
 ## Main Article
 
-The main article can be found https://www.biorxiv.org/content/10.1101/2025.11.13.688333v1.
+The full article is available at https://www.biorxiv.org/content/10.1101/2025.11.13.688333v1.
 
 ## Repository Structure
 
